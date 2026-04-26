@@ -1,6 +1,6 @@
 # Discord.py Components V2 — Guide
 
-> By **ynxiety.ded** • Support Server: [discord.gg/aerox](https://skillix.dev/support)
+> By **ynxiety.ded** • Support Server: [discord.gg/skillix](https://skillix.dev/support)
 
 Components V2 is Discord's new message layout system that gives you **full control** over how your bot messages look. It's more powerful and flexible than the traditional `embed` system.
 
