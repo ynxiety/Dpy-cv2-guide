@@ -159,13 +159,13 @@ class PaginatedLayout(discord.ui.LayoutView):
 
 | # | Guide | Description |
 |---|-------|-------------|
-| 1 | [LayoutView](Layout-View.md) | The root of every CV2 message |
+| 1 | [LayoutView](LayoutView.md) | The root of every CV2 message |
 | 2 | [Container](Container.md) | Grouping components with optional accent color |
-| 3 | [TextDisplay](Text-Display.md) | Rendering markdown text |
+| 3 | [TextDisplay](TextDisplay.md) | Rendering markdown text |
 | 4 | [Separator](Separator.md) | Visual dividers and spacing |
-| 5 | [Section & Thumbnail](Section-And-Thumbnail.md) | Side-by-side text + image or button |
-| 6 | [MediaGallery](Media-Gallery.md) | Image grids |
-| 7 | [File Component](File-Component.md) | Inline file attachments |
-| 8 | [ActionRow](Action-Row.md) | Buttons and selects inside CV2 |
-| 9 | [Real-World Examples](Real-World-Examples.md) | Full patterns from a production ticket bot |
-| 10 | [Tips & Gotchas](Tips-And-Gotchas.md) | Limits, mistakes, and best practices |
+| 5 | [Section & Thumbnail](SectionAndThumbnail.md) | Side-by-side text + image or button |
+| 6 | [MediaGallery](MediaGallery.md) | Image grids |
+| 7 | [File Component](FileComponent.md) | Inline file attachments |
+| 8 | [ActionRow](ActionRow.md) | Buttons and selects inside CV2 |
+| 9 | [Real-World Examples](RealTicketExample.md) | Full patterns from a production ticket bot |
+| 10 | [Tips & Gotchas](Tips.md) | Limits, mistakes, and best practices |
